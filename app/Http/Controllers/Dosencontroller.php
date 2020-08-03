@@ -14,7 +14,7 @@ class Dosencontroller extends Controller
      */
     public function index()
     {
-        //
+        return"Halaman index Dosen";
     }
 
     /**
